@@ -1,0 +1,6 @@
+dependencies:
+	npm i mapbox-gl
+	npm i worker-loader
+	npm i @mapbox/mapbox-gl-geocoder
+	npm i mapbox-geocoding (optional)
+        npm i @mapbox/mapbox-gl-directions
